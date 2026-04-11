@@ -1,12 +1,10 @@
 # research-portfolio
 
 ## Topics
-- Monetary policy
 - Econometrics
 - Forecasting
 - Actuarial risk analysis
 - Machine learning
-- Financial fraud detection
 
 ## Contents
 
